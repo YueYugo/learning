@@ -1,7 +1,7 @@
 # learning
 
-##editing the file
+## editing the file
 
-#test
+# test
 
 It's a markdown file in this repository.
